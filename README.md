@@ -1,6 +1,6 @@
-# Ultimate Next.js Course - Level 4
+# Ultimate Next.js - Level 4
 
-A TypeScript and Next.js practice project from the **Ultimate Next.js Course**. This level focuses on React fundamentals, form handling, component props, global TypeScript types, and the Next.js App Router.
+A TypeScript and Next.js practice project from the Ultimate Next.js. This level focuses on React fundamentals, form handling, component props, global TypeScript types, and the Next.js App Router.
 
 > **Project status:** Educational starter project. The current form UI is in progress and does not yet contain submission or input-processing logic.
 
